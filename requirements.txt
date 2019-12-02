@@ -1,0 +1,12 @@
+certifi==2019.11.28
+chardet==3.0.4
+Click==7.0
+idna==2.8
+prompt-toolkit==1.0.14
+Pygments==2.5.2
+PyInquirer==1.0.3
+regex==2019.11.1
+requests==2.22.0
+six==1.13.0
+urllib3==1.25.7
+wcwidth==0.1.7
